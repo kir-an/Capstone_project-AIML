@@ -1,5 +1,6 @@
 # Capstone_project-AIML-
-Capstone Project: Explore Machine Learning using Python
+## Capstone Project: 
+Explore Machine Learning using Python
 When an employee quits the organization, they take way experience, skill, knowledge acquired over a period of time within the organization. This affects the organization and the impact is not only restricted to that but also brings the task of finding a suitable replacement. Mostly the suitable replacement is hired from external and it again adds time and cost to the organization.
 
 The HR department of a multinational company would like to understand the reasons for premature exit of experienced employees using Machine Learning techniques. For achieving this, they must:
@@ -12,8 +13,8 @@ Understand the effect of satisfaction level, department, promotion in last 5 yea
 Build  a machine learning model to predict  the exit of employees.
  
 
-Click here to download the dataset:
-
+## Click here to download the dataset:
+https://infyspringboard.onwingspan.com/common-content-store/Shared/Shared/Public/lex_auth_0131364956063416323344_shared/web-hosted/assets/HRcommasep1603576336980.zip
  
 
 The dataset has roughly 15000 records with10 columns, which are self-explanatory, namely: satisfaction_level, last_evaluation, number_project, average_monthly_hours, time_spend_company, Work_accident, left, promotion_last_5years, Department, salary.
